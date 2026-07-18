@@ -1,0 +1,1 @@
+import{j as a,m as n}from"./index-BfvHc6qQ.js";function e({children:t,className:i=""}){return a.jsx(n.main,{className:i,initial:{opacity:0,y:18},animate:{opacity:1,y:0},exit:{opacity:0,y:-12},transition:{duration:.45,ease:"easeOut"},children:t})}export{e as A};
